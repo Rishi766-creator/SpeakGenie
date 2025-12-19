@@ -1,4 +1,4 @@
-# Learning App UI
+# Speak Genie UI
 
 This repository contains the UI design for a learning application built using **React** and **Tailwind CSS**.  
 The project focuses only on layout, styling, and responsiveness.  
